@@ -24,7 +24,7 @@ description: PhD candidate in geoinformatics, programmer, engineer
 # List of links in the navigation bar
 navbar-links:
   Publications: "publications"
-  About me: "aboutme"
+  About me:
     - LinkedIn: "https://www.linkedin.com/in/samuelnavasm/"
     - Research Gate: "https://www.researchgate.net/profile/Samuel_Navas_Medrano"
     - Google Scholar: "https://scholar.google.de/citations?user=T8sVTJQAAAAJ"

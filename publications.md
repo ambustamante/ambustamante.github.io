@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-I can also be found on [Google Scholar](https://scholar.google.de/citations?user=T8sVTJQAAAAJ&hl) and on my researcher profile at [Uni-Muenster](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/246/Samuel_Navas_Medrano).
+I can also be found on [Google Scholar](https://scholar.google.de/citations?user=T8sVTJQAAAAJ&hl), [Research Gate](https://www.researchgate.net/profile/Samuel_Navas_Medrano), and on my researcher profile at [Uni-Muenster](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/246/Samuel_Navas_Medrano).
 
 ## 2017
 

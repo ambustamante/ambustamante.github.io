@@ -6,6 +6,9 @@ layout: null
 
 /* --- General --- */
 
+.text-muted {
+  color: #CCD9CE;
+}
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
